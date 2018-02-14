@@ -13,6 +13,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
+## [0.5] - 2018-02-14
+### Added
+* Views controller
+* By Priority and By Catagory split view
+* Secondary Template
+
 ## [0.4] - 2018-02-14
 ### Added
 * Tasks list on homepage.
