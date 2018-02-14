@@ -13,6 +13,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
+## [0.4] - 2018-02-14
+### Added
+* Tasks list on homepage.
+
+## [0.3] - 2018-02-14
+### Added
+* phpstorm project files to gitignore.
+
 ## [0.2] - 2018-02-14
 ### Added
 * Model for Tasks.csv
