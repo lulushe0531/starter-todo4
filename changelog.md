@@ -18,10 +18,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 * Views controller
 * By Priority and By Catagory split view
 * Secondary Template
+* Completed the Help Wanted page.
+
 
 ## [0.4] - 2018-02-14
 ### Added
 * Tasks list on homepage.
+
 
 ## [0.3] - 2018-02-14
 ### Added
