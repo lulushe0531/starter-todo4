@@ -15,6 +15,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [0.5] - 2018-02-14
 ### Added
+* Views controller
+* By Priority and By Catagory split view
+* Secondary Template
 * Completed the Help Wanted page.
 
 
