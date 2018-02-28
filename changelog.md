@@ -13,6 +13,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
+## [0.6] - 2018-02-28
+### Added
+* Pagination functionality
+* itemnav.php view
+
 ## [0.5] - 2018-02-14
 ### Added
 * Views controller
