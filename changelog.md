@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Added
 * Pagination functionality
 * itemnav.php view
+* Owner and Guest Roles
 
 ## [0.5] - 2018-02-14
 ### Added
