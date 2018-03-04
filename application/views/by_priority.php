@@ -19,7 +19,7 @@
         {display_tasks}
         <tr>
             <td>{id}</td>
-            <td><input type='checkbox' name='task{id}'/></td>SS
+            <td><input type='checkbox' name='task{id}'/></td>
             <td>{task}</td>
             <td>{priority}</td>
         </tr>
