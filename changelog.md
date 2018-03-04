@@ -27,6 +27,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 * Completed the Help Wanted page.
 
 
+## [0.5] - 2018-03-04
+### Added
+* Fixed issue with saving session data
+* Completed job #8
+
 ## [0.4] - 2018-02-14
 ### Added
 * Tasks list on homepage.
