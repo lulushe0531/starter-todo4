@@ -13,13 +13,18 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
-## [0.6] - 2018-02-28
+## [0.8] - 2018-03-04
+### Added
+* New item button in maintenance
+* Made the task ID a link
+
+## [0.7] - 2018-02-28
 ### Added
 * Pagination functionality
 * itemnav.php view
 * Owner and Guest Roles
 
-## [0.5] - 2018-02-14
+## [0.6] - 2018-02-14
 ### Added
 * Views controller
 * By Priority and By Catagory split view
