@@ -17,6 +17,18 @@ class Task extends Entity
     protected $status;
     protected $flag;
 
+    public function getPriority(){
+        return $this->priority;
+    }
+
+    public function getGroup() {
+        return $this->group;
+    }
+
+    public function getStatus() {
+        return $this->status;
+    }
+
     // insist that an ID be present
     public function setId($value) {
         $this->id = $value;
