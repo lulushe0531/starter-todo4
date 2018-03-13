@@ -13,7 +13,13 @@ class TaskTest extends TestCase {
         $this->mTask->setSize(1);
     }
 
-    function testValidTask() {
+    function testValidTaskAlphaNum() {
+        $this->badTask = new Task();
+        $this->expectException(Exception::class);
+        $this->badTask->setTask("#$%%^");
+    }
+
+    function testValidTaskLenght() {
         $this->badTask = new Task();
         $this->expectException(Exception::class);
         $this->badTask->setTask("An extremely long name which is very lenghty for no reason expect to trigger this less than 64 characters limit we are trying to impose on each new task");
