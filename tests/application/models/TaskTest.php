@@ -13,6 +13,12 @@ class TaskTest extends TestCase {
         $this->mTask->setStatus("in progress");
     }
 
+//    function testValid() {
+//        $this->badTask = new Task();
+//        $this->expectException(Exception::class);
+//        $this->badTask->setTask("An extremely long name which is very lenghty for no reason expect to trigger this less than 64 characters limit we are trying to impose on each new task");
+//    }
+
     function testPriority() {
         $expected = "high";
         $this->mTask->priority = $expected;
