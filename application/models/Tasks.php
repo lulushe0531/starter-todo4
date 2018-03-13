@@ -36,7 +36,26 @@ class Tasks extends CSV_Model {
         return $converted;
     }
 
+    function getCompletedCount(){
+        $count = 0;
+        foreach ($this->all() as $task){
+            if ($task->status == 2){
+                $count++;
+            }
+        }
+        return $count;
+    }
 
+
+    function getIncompleteCount() {
+        $count = 0;
+        foreach ($this->all() as $task){
+            if ($task->status != 2){
+                $count++;
+            }
+        }
+        return $count;
+    }
 
     // provide form validation rules
     public function rules()

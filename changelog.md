@@ -13,6 +13,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
+## [1.3] - 2018-3-13
+### Added
+* Additional Task Unit Testing
+* TaskList Business Case Unit Test
+
+### Changed
+* Updated phpunit.xml to provide code coverage
+* Updated .gitignore to ignore code coverage folder
+
 ## [1.2] - 2018-03-11
 ### Added
 * Finished travis-ci implementation. Added build status
