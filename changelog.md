@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Added
 * Additional Task Unit Testing
 * TaskList Business Case Unit Test
+* Unit Tests on form Validation
 
 ### Changed
 * Updated phpunit.xml to provide code coverage
