@@ -13,6 +13,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - First Mate - Lu She
 - Second Mate - Wei Zhang
 
+## [1.4] - 2018-3-21
+### Added
+* XML Data
+
 ## [1.3] - 2018-3-13
 ### Added
 * Additional Task Unit Testing
